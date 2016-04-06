@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>004</string>
+		<key>name</key>
+		<string>主管徐尧</string>
+		<key>time</key>
+		<string>2015-12-20 10:27</string>
+		<key>endTiem</key>
+		<string>2015-12-20 22:30</string>
+		<key>content</key>
+		<string>这是一个任务，一个今天要一直做得东西</string>
+		<key>status</key>
+		<integer>-1</integer>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>004</string>
+		<key>name</key>
+		<string>主管徐尧-01</string>
+		<key>time</key>
+		<string>2015-12-20 10:27</string>
+		<key>endTiem</key>
+		<string>2015-12-20 22:30</string>
+		<key>content</key>
+		<string>这是一个任务，一个今天要一直做得东西</string>
+		<key>status</key>
+		<integer>-1</integer>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>004</string>
+		<key>name</key>
+		<string>主管徐尧-02</string>
+		<key>time</key>
+		<string>2015-12-20 10:27</string>
+		<key>endTiem</key>
+		<string>2015-12-20 22:30</string>
+		<key>accpetName</key>
+		<string>xuxu</string>
+		<key>content</key>
+		<string>这是一个任务，一个今天要一直做得东西</string>
+		<key>status</key>
+		<integer>-1</integer>
+	</dict>
+</array>
+</plist>
